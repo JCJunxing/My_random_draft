@@ -1,1 +1,1 @@
-This is my own use yolov9 notebooks, use at your own risk
+This is my own use notebooks, some are modified from online resources. Use at your own risk!
